@@ -1,0 +1,733 @@
+[
+  {
+    "question": "[Múltiple #11] Selecciona TODAS las opciones correctas sobre el tema 41.",
+    "options": [
+      "Opción A41",
+      "Opción B41",
+      "Opción C41",
+      "Opción D41"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 41."
+  },
+  {
+    "question": "[Simple #22] ¿Cuál es la opción correcta sobre el tema 22?",
+    "options": [
+      "Opción A22",
+      "Opción B22",
+      "Opción C22",
+      "Opción D22"
+    ],
+    "correct": [
+      2
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 22."
+  },
+  {
+    "question": "[Simple #19] ¿Cuál es la opción correcta sobre el tema 19?",
+    "options": [
+      "Opción A19",
+      "Opción B19",
+      "Opción C19",
+      "Opción D19"
+    ],
+    "correct": [
+      2
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 19."
+  },
+  {
+    "question": "[Simple #25] ¿Cuál es la opción correcta sobre el tema 25?",
+    "options": [
+      "Opción A25",
+      "Opción B25",
+      "Opción C25",
+      "Opción D25"
+    ],
+    "correct": [
+      3
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 25."
+  },
+  {
+    "question": "[Simple #21] ¿Cuál es la opción correcta sobre el tema 21?",
+    "options": [
+      "Opción A21",
+      "Opción B21",
+      "Opción C21",
+      "Opción D21"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 21."
+  },
+  {
+    "question": "[Múltiple #7] Selecciona TODAS las opciones correctas sobre el tema 37.",
+    "options": [
+      "Opción A37",
+      "Opción B37",
+      "Opción C37",
+      "Opción D37"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 37."
+  },
+  {
+    "question": "[Simple #1] ¿Cuál es la opción correcta sobre el tema 1?",
+    "options": [
+      "Opción A1",
+      "Opción B1",
+      "Opción C1",
+      "Opción D1"
+    ],
+    "correct": [
+      3
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 1."
+  },
+  {
+    "question": "[Múltiple #12] Selecciona TODAS las opciones correctas sobre el tema 42.",
+    "options": [
+      "Opción A42",
+      "Opción B42",
+      "Opción C42",
+      "Opción D42"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 42."
+  },
+  {
+    "question": "[Múltiple #19] Selecciona TODAS las opciones correctas sobre el tema 49.",
+    "options": [
+      "Opción A49",
+      "Opción B49",
+      "Opción C49",
+      "Opción D49"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 49."
+  },
+  {
+    "question": "[Simple #2] ¿Cuál es la opción correcta sobre el tema 2?",
+    "options": [
+      "Opción A2",
+      "Opción B2",
+      "Opción C2",
+      "Opción D2"
+    ],
+    "correct": [
+      1
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 2."
+  },
+  {
+    "question": "[Simple #12] ¿Cuál es la opción correcta sobre el tema 12?",
+    "options": [
+      "Opción A12",
+      "Opción B12",
+      "Opción C12",
+      "Opción D12"
+    ],
+    "correct": [
+      3
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 12."
+  },
+  {
+    "question": "[Simple #6] ¿Cuál es la opción correcta sobre el tema 6?",
+    "options": [
+      "Opción A6",
+      "Opción B6",
+      "Opción C6",
+      "Opción D6"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 6."
+  },
+  {
+    "question": "[Simple #26] ¿Cuál es la opción correcta sobre el tema 26?",
+    "options": [
+      "Opción A26",
+      "Opción B26",
+      "Opción C26",
+      "Opción D26"
+    ],
+    "correct": [
+      2
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 26."
+  },
+  {
+    "question": "[Simple #7] ¿Cuál es la opción correcta sobre el tema 7?",
+    "options": [
+      "Opción A7",
+      "Opción B7",
+      "Opción C7",
+      "Opción D7"
+    ],
+    "correct": [
+      1
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 7."
+  },
+  {
+    "question": "[Múltiple #15] Selecciona TODAS las opciones correctas sobre el tema 45.",
+    "options": [
+      "Opción A45",
+      "Opción B45",
+      "Opción C45",
+      "Opción D45"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 45."
+  },
+  {
+    "question": "[Simple #18] ¿Cuál es la opción correcta sobre el tema 18?",
+    "options": [
+      "Opción A18",
+      "Opción B18",
+      "Opción C18",
+      "Opción D18"
+    ],
+    "correct": [
+      3
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 18."
+  },
+  {
+    "question": "[Simple #17] ¿Cuál es la opción correcta sobre el tema 17?",
+    "options": [
+      "Opción A17",
+      "Opción B17",
+      "Opción C17",
+      "Opción D17"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 17."
+  },
+  {
+    "question": "[Múltiple #18] Selecciona TODAS las opciones correctas sobre el tema 48.",
+    "options": [
+      "Opción A48",
+      "Opción B48",
+      "Opción C48",
+      "Opción D48"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 48."
+  },
+  {
+    "question": "[Múltiple #9] Selecciona TODAS las opciones correctas sobre el tema 39.",
+    "options": [
+      "Opción A39",
+      "Opción B39",
+      "Opción C39",
+      "Opción D39"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 39."
+  },
+  {
+    "question": "[Múltiple #3] Selecciona TODAS las opciones correctas sobre el tema 33.",
+    "options": [
+      "Opción A33",
+      "Opción B33",
+      "Opción C33",
+      "Opción D33"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 33."
+  },
+  {
+    "question": "[Simple #27] ¿Cuál es la opción correcta sobre el tema 27?",
+    "options": [
+      "Opción A27",
+      "Opción B27",
+      "Opción C27",
+      "Opción D27"
+    ],
+    "correct": [
+      2
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 27."
+  },
+  {
+    "question": "[Múltiple #6] Selecciona TODAS las opciones correctas sobre el tema 36.",
+    "options": [
+      "Opción A36",
+      "Opción B36",
+      "Opción C36",
+      "Opción D36"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 36."
+  },
+  {
+    "question": "[Simple #15] ¿Cuál es la opción correcta sobre el tema 15?",
+    "options": [
+      "Opción A15",
+      "Opción B15",
+      "Opción C15",
+      "Opción D15"
+    ],
+    "correct": [
+      2
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 15."
+  },
+  {
+    "question": "[Múltiple #1] Selecciona TODAS las opciones correctas sobre el tema 31.",
+    "options": [
+      "Opción A31",
+      "Opción B31",
+      "Opción C31",
+      "Opción D31"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 31."
+  },
+  {
+    "question": "[Simple #29] ¿Cuál es la opción correcta sobre el tema 29?",
+    "options": [
+      "Opción A29",
+      "Opción B29",
+      "Opción C29",
+      "Opción D29"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 29."
+  },
+  {
+    "question": "[Múltiple #4] Selecciona TODAS las opciones correctas sobre el tema 34.",
+    "options": [
+      "Opción A34",
+      "Opción B34",
+      "Opción C34",
+      "Opción D34"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 34."
+  },
+  {
+    "question": "[Múltiple #10] Selecciona TODAS las opciones correctas sobre el tema 40.",
+    "options": [
+      "Opción A40",
+      "Opción B40",
+      "Opción C40",
+      "Opción D40"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 40."
+  },
+  {
+    "question": "[Simple #28] ¿Cuál es la opción correcta sobre el tema 28?",
+    "options": [
+      "Opción A28",
+      "Opción B28",
+      "Opción C28",
+      "Opción D28"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 28."
+  },
+  {
+    "question": "[Simple #10] ¿Cuál es la opción correcta sobre el tema 10?",
+    "options": [
+      "Opción A10",
+      "Opción B10",
+      "Opción C10",
+      "Opción D10"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 10."
+  },
+  {
+    "question": "[Simple #23] ¿Cuál es la opción correcta sobre el tema 23?",
+    "options": [
+      "Opción A23",
+      "Opción B23",
+      "Opción C23",
+      "Opción D23"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 23."
+  },
+  {
+    "question": "[Múltiple #13] Selecciona TODAS las opciones correctas sobre el tema 43.",
+    "options": [
+      "Opción A43",
+      "Opción B43",
+      "Opción C43",
+      "Opción D43"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 43."
+  },
+  {
+    "question": "[Múltiple #2] Selecciona TODAS las opciones correctas sobre el tema 32.",
+    "options": [
+      "Opción A32",
+      "Opción B32",
+      "Opción C32",
+      "Opción D32"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 32."
+  },
+  {
+    "question": "[Simple #14] ¿Cuál es la opción correcta sobre el tema 14?",
+    "options": [
+      "Opción A14",
+      "Opción B14",
+      "Opción C14",
+      "Opción D14"
+    ],
+    "correct": [
+      1
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 14."
+  },
+  {
+    "question": "[Simple #8] ¿Cuál es la opción correcta sobre el tema 8?",
+    "options": [
+      "Opción A8",
+      "Opción B8",
+      "Opción C8",
+      "Opción D8"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 8."
+  },
+  {
+    "question": "[Múltiple #14] Selecciona TODAS las opciones correctas sobre el tema 44.",
+    "options": [
+      "Opción A44",
+      "Opción B44",
+      "Opción C44",
+      "Opción D44"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 44."
+  },
+  {
+    "question": "[Simple #11] ¿Cuál es la opción correcta sobre el tema 11?",
+    "options": [
+      "Opción A11",
+      "Opción B11",
+      "Opción C11",
+      "Opción D11"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 11."
+  },
+  {
+    "question": "[Simple #5] ¿Cuál es la opción correcta sobre el tema 5?",
+    "options": [
+      "Opción A5",
+      "Opción B5",
+      "Opción C5",
+      "Opción D5"
+    ],
+    "correct": [
+      1
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 5."
+  },
+  {
+    "question": "[Múltiple #20] Selecciona TODAS las opciones correctas sobre el tema 50.",
+    "options": [
+      "Opción A50",
+      "Opción B50",
+      "Opción C50",
+      "Opción D50"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 50."
+  },
+  {
+    "question": "[Múltiple #17] Selecciona TODAS las opciones correctas sobre el tema 47.",
+    "options": [
+      "Opción A47",
+      "Opción B47",
+      "Opción C47",
+      "Opción D47"
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 47."
+  },
+  {
+    "question": "[Simple #9] ¿Cuál es la opción correcta sobre el tema 9?",
+    "options": [
+      "Opción A9",
+      "Opción B9",
+      "Opción C9",
+      "Opción D9"
+    ],
+    "correct": [
+      1
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 9."
+  },
+  {
+    "question": "[Simple #16] ¿Cuál es la opción correcta sobre el tema 16?",
+    "options": [
+      "Opción A16",
+      "Opción B16",
+      "Opción C16",
+      "Opción D16"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 16."
+  },
+  {
+    "question": "[Múltiple #8] Selecciona TODAS las opciones correctas sobre el tema 38.",
+    "options": [
+      "Opción A38",
+      "Opción B38",
+      "Opción C38",
+      "Opción D38"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 38."
+  },
+  {
+    "question": "[Simple #30] ¿Cuál es la opción correcta sobre el tema 30?",
+    "options": [
+      "Opción A30",
+      "Opción B30",
+      "Opción C30",
+      "Opción D30"
+    ],
+    "correct": [
+      3
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 30."
+  },
+  {
+    "question": "[Simple #20] ¿Cuál es la opción correcta sobre el tema 20?",
+    "options": [
+      "Opción A20",
+      "Opción B20",
+      "Opción C20",
+      "Opción D20"
+    ],
+    "correct": [
+      3
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 20."
+  },
+  {
+    "question": "[Simple #4] ¿Cuál es la opción correcta sobre el tema 4?",
+    "options": [
+      "Opción A4",
+      "Opción B4",
+      "Opción C4",
+      "Opción D4"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 4."
+  },
+  {
+    "question": "[Simple #24] ¿Cuál es la opción correcta sobre el tema 24?",
+    "options": [
+      "Opción A24",
+      "Opción B24",
+      "Opción C24",
+      "Opción D24"
+    ],
+    "correct": [
+      2
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 24."
+  },
+  {
+    "question": "[Múltiple #16] Selecciona TODAS las opciones correctas sobre el tema 46.",
+    "options": [
+      "Opción A46",
+      "Opción B46",
+      "Opción C46",
+      "Opción D46"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 46."
+  },
+  {
+    "question": "[Simple #3] ¿Cuál es la opción correcta sobre el tema 3?",
+    "options": [
+      "Opción A3",
+      "Opción B3",
+      "Opción C3",
+      "Opción D3"
+    ],
+    "correct": [
+      3
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 3."
+  },
+  {
+    "question": "[Simple #13] ¿Cuál es la opción correcta sobre el tema 13?",
+    "options": [
+      "Opción A13",
+      "Opción B13",
+      "Opción C13",
+      "Opción D13"
+    ],
+    "correct": [
+      0
+    ],
+    "multi_select": false,
+    "explanation": "La opción correcta fue elegida porque representa mejor el concepto clave del tema 13."
+  },
+  {
+    "question": "[Múltiple #5] Selecciona TODAS las opciones correctas sobre el tema 35.",
+    "options": [
+      "Opción A35",
+      "Opción B35",
+      "Opción C35",
+      "Opción D35"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "multi_select": true,
+    "explanation": "Las opciones seleccionadas son las únicas que cumplen con los criterios del tema 35."
+  }
+]

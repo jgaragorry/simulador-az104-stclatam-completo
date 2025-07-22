@@ -1,0 +1,108 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.logo {
+  width: 120px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.exam-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.card {
+  text-align: center;
+}
+
+.btn-start, .btn-next {
+  background-color: #0078d4;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.btn-start:hover, .btn-next:hover {
+  background-color: #005fa3;
+}
+
+.hidden {
+  display: none;
+}
+
+.exam-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.progress-bar-container {
+  background-color: #ddd;
+  width: 70%;
+  height: 15px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  background-color: #0078d4;
+  height: 100%;
+  width: 0%;
+  transition: width 0.3s;
+}
+
+.timer {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+#question-box {
+  margin-bottom: 20px;
+}
+
+.option {
+  display: block;
+  margin: 10px 0;
+}
+
+#score-bar-container {
+  background-color: #ddd;
+  height: 25px;
+  border-radius: 15px;
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+.score-bar {
+  background-color: #0078d4;
+  height: 100%;
+  width: 0%;
+  transition: width 1s ease-in-out;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
